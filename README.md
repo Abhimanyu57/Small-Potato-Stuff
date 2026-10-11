@@ -1,2 +1,2 @@
-# Small-Potato-Stuff
-Just small potato stuff
+## CricAuction - an IPL-style acution simulator
+As a kid who's grown up watching the IPL daily, I was mesmerized by something that used to take place every year, not on the pitch but off-pitch, the IPL Auction. I very clearly remember gathering up a few of my friends, assessing my team's current squad, and thinking of players our teams should be looking for. Just one fine day in October 2026 I thought what if the same IPL Auction could happen differently, happen my way. This is how I came up with CricAuction- a 2026 IPL Auction simulator.
